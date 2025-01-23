@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Blog Website - Frontend
 
-## Getting Started
+This project is a full-stack blog platform that enables users to create, edit, delete, and browse blog posts. The platform ensures secure user authentication and provides a clean, responsive, and user-friendly interface.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features  
+- **User Authentication:**  
+  - Secure user registration and login functionality.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Blog Post Management:**  
+  - Users can create, edit, and delete their blog posts.  
+  - Browse blog posts published by others.  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Responsive Design:**  
+  - User interface designed with Tailwind CSS for seamless performance across all devices.  
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## Technologies Used  
+- **Frontend:** Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **API Development:** REST APIs  
+- **Tools:** Git, Postman  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Installation and Setup  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Prerequisites  
+Ensure you have the following installed:  
+- MongoDB  
+- Git  
 
-## Deploy on Vercel
+### Steps  
+1. Clone the repository:  
+   ```bash
+   https://github.com/FahithKRM/Blog-App--Next----MERN.git
+    ```
+2. Install dependencies:  
+   ```bash
+   npm install
+    ```
+3. Start the development server:
+   ```bash
+   npm run dev
+    ```
+4. Access the website at http://localhost:3000
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Usage  
+- Users can navigate the website to log in, create, edit, and delete blog posts.  
+- Fully responsive UI for desktops, tablets, and mobile devices.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+## Skills Demonstrated  
+- Designed a responsive and user-centered interface with Next.js and Tailwind CSS.  
+- Created intuitive forms and layouts for post creation, editing, and deletion.  
+- Focused on clean UI/UX principles to enhance user experience.  
+
+
+   
