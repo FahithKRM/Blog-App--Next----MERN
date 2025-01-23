@@ -13,7 +13,11 @@ This project is a full-stack blog platform that enables users to create, edit, d
   - Browse blog posts published by others.  
 
 - **Responsive Design:**  
-  - User interface designed with Tailwind CSS for seamless performance across all devices.  
+  - User interface designed with Tailwind CSS for seamless performance across all devices.
+ 
+  ![WhatsApp Image 2025-01-23 at 17 59 17_9baa03d6](https://github.com/user-attachments/assets/bfe086a1-d153-4234-b632-9e62a93831c4)
+  
+  ![WhatsApp Image 2025-01-23 at 17 59 34_bd66d8e0](https://github.com/user-attachments/assets/fbaaa587-d79d-419b-8c46-9953ffff0d12)
 
 ---
 
